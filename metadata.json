@@ -1,0 +1,6 @@
+{
+  "name": "KUKUS — Civilization Builder",
+  "description": "Offline-first 2D isometric civilization builder and economic simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
